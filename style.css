@@ -1,0 +1,22 @@
+label{
+    display: block;
+    padding: 10px;
+  }
+  form{
+    text-align: center;
+    background-color: rgb(120, 124, 124);
+    margin: 0px 400px 0px 400px;    
+  
+  } 
+  h1{ 
+    text-align: center; 
+  }
+  #submit{ 
+    padding: 10px;
+  }
+  button{
+    background-color:rgb(32, 125, 179); 
+  } 
+  button:hover{ 
+    background-color: rgb(153, 199, 45);
+  }
